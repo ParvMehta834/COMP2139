@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\COMP2139\\COMP2139\\comp2139.csproj": {}
+    "C:\\COMP2139\\comp2139\\comp2139.csproj": {}
   },
   "projects": {
-    "C:\\COMP2139\\COMP2139\\comp2139.csproj": {
+    "C:\\COMP2139\\comp2139\\comp2139.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\COMP2139\\COMP2139\\comp2139.csproj",
+        "projectUniqueName": "C:\\COMP2139\\comp2139\\comp2139.csproj",
         "projectName": "comp2139",
-        "projectPath": "C:\\COMP2139\\COMP2139\\comp2139.csproj",
+        "projectPath": "C:\\COMP2139\\comp2139\\comp2139.csproj",
         "packagesPath": "C:\\Users\\parvm\\.nuget\\packages\\",
-        "outputPath": "C:\\COMP2139\\COMP2139\\obj\\",
+        "outputPath": "C:\\COMP2139\\comp2139\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\parvm\\AppData\\Roaming\\NuGet\\NuGet.Config",
