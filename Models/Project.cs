@@ -4,6 +4,7 @@ namespace comp2139.Models;
 
 public class Project
 {
+
     /// <summary>
     /// The unique identifier dor the Project entity
     /// </summary>
