@@ -1,0 +1,153 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\baalb\\Desktop\\Semester 4\\COMP2139 - Advanced Web Application\\COMP2139-ICE\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{80A21C14-0C07-40E8-954A-498800FDCAFF}|COMP2139-ICE\\COMP2139-ICE.csproj|c:\\users\\baalb\\desktop\\semester 4\\comp2139 - advanced web application\\comp2139-ice\\comp2139-ice\\views\\project\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{80A21C14-0C07-40E8-954A-498800FDCAFF}|COMP2139-ICE\\COMP2139-ICE.csproj|solutionrelative:comp2139-ice\\views\\project\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80A21C14-0C07-40E8-954A-498800FDCAFF}|COMP2139-ICE\\COMP2139-ICE.csproj|c:\\users\\baalb\\desktop\\semester 4\\comp2139 - advanced web application\\comp2139-ice\\comp2139-ice\\views\\project\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{80A21C14-0C07-40E8-954A-498800FDCAFF}|COMP2139-ICE\\COMP2139-ICE.csproj|solutionrelative:comp2139-ice\\views\\project\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80A21C14-0C07-40E8-954A-498800FDCAFF}|COMP2139-ICE\\COMP2139-ICE.csproj|c:\\users\\baalb\\desktop\\semester 4\\comp2139 - advanced web application\\comp2139-ice\\comp2139-ice\\views\\project\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{80A21C14-0C07-40E8-954A-498800FDCAFF}|COMP2139-ICE\\COMP2139-ICE.csproj|solutionrelative:comp2139-ice\\views\\project\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80A21C14-0C07-40E8-954A-498800FDCAFF}|COMP2139-ICE\\COMP2139-ICE.csproj|c:\\users\\baalb\\desktop\\semester 4\\comp2139 - advanced web application\\comp2139-ice\\comp2139-ice\\controllers\\projectcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80A21C14-0C07-40E8-954A-498800FDCAFF}|COMP2139-ICE\\COMP2139-ICE.csproj|solutionrelative:comp2139-ice\\controllers\\projectcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80A21C14-0C07-40E8-954A-498800FDCAFF}|COMP2139-ICE\\COMP2139-ICE.csproj|c:\\users\\baalb\\desktop\\semester 4\\comp2139 - advanced web application\\comp2139-ice\\comp2139-ice\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{80A21C14-0C07-40E8-954A-498800FDCAFF}|COMP2139-ICE\\COMP2139-ICE.csproj|solutionrelative:comp2139-ice\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80A21C14-0C07-40E8-954A-498800FDCAFF}|COMP2139-ICE\\COMP2139-ICE.csproj|c:\\users\\baalb\\desktop\\semester 4\\comp2139 - advanced web application\\comp2139-ice\\comp2139-ice\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80A21C14-0C07-40E8-954A-498800FDCAFF}|COMP2139-ICE\\COMP2139-ICE.csproj|solutionrelative:comp2139-ice\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80A21C14-0C07-40E8-954A-498800FDCAFF}|COMP2139-ICE\\COMP2139-ICE.csproj|c:\\users\\baalb\\desktop\\semester 4\\comp2139 - advanced web application\\comp2139-ice\\comp2139-ice\\models\\project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80A21C14-0C07-40E8-954A-498800FDCAFF}|COMP2139-ICE\\COMP2139-ICE.csproj|solutionrelative:comp2139-ice\\models\\project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80A21C14-0C07-40E8-954A-498800FDCAFF}|COMP2139-ICE\\COMP2139-ICE.csproj|c:\\users\\baalb\\desktop\\semester 4\\comp2139 - advanced web application\\comp2139-ice\\comp2139-ice\\comp2139-ice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{80A21C14-0C07-40E8-954A-498800FDCAFF}|COMP2139-ICE\\COMP2139-ICE.csproj|solutionrelative:comp2139-ice\\comp2139-ice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\baalb\\Desktop\\Semester 4\\COMP2139 - Advanced Web Application\\COMP2139-ICE\\COMP2139-ICE\\Views\\Project\\Details.cshtml",
+              "RelativeDocumentMoniker": "COMP2139-ICE\\Views\\Project\\Details.cshtml",
+              "ToolTip": "C:\\Users\\baalb\\Desktop\\Semester 4\\COMP2139 - Advanced Web Application\\COMP2139-ICE\\COMP2139-ICE\\Views\\Project\\Details.cshtml",
+              "RelativeToolTip": "COMP2139-ICE\\Views\\Project\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-25T02:11:15.87Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\baalb\\Desktop\\Semester 4\\COMP2139 - Advanced Web Application\\COMP2139-ICE\\COMP2139-ICE\\Views\\Project\\Create.cshtml",
+              "RelativeDocumentMoniker": "COMP2139-ICE\\Views\\Project\\Create.cshtml",
+              "ToolTip": "C:\\Users\\baalb\\Desktop\\Semester 4\\COMP2139 - Advanced Web Application\\COMP2139-ICE\\COMP2139-ICE\\Views\\Project\\Create.cshtml",
+              "RelativeToolTip": "COMP2139-ICE\\Views\\Project\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-25T02:11:15.069Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\baalb\\Desktop\\Semester 4\\COMP2139 - Advanced Web Application\\COMP2139-ICE\\COMP2139-ICE\\Views\\Project\\Index.cshtml",
+              "RelativeDocumentMoniker": "COMP2139-ICE\\Views\\Project\\Index.cshtml",
+              "ToolTip": "C:\\Users\\baalb\\Desktop\\Semester 4\\COMP2139 - Advanced Web Application\\COMP2139-ICE\\COMP2139-ICE\\Views\\Project\\Index.cshtml",
+              "RelativeToolTip": "COMP2139-ICE\\Views\\Project\\Index.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAACgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-25T01:52:33.101Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\baalb\\Desktop\\Semester 4\\COMP2139 - Advanced Web Application\\COMP2139-ICE\\COMP2139-ICE\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "COMP2139-ICE\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\baalb\\Desktop\\Semester 4\\COMP2139 - Advanced Web Application\\COMP2139-ICE\\COMP2139-ICE\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "COMP2139-ICE\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-25T01:26:35.879Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProjectController.cs",
+              "DocumentMoniker": "C:\\Users\\baalb\\Desktop\\Semester 4\\COMP2139 - Advanced Web Application\\COMP2139-ICE\\COMP2139-ICE\\Controllers\\ProjectController.cs",
+              "RelativeDocumentMoniker": "COMP2139-ICE\\Controllers\\ProjectController.cs",
+              "ToolTip": "C:\\Users\\baalb\\Desktop\\Semester 4\\COMP2139 - Advanced Web Application\\COMP2139-ICE\\COMP2139-ICE\\Controllers\\ProjectController.cs",
+              "RelativeToolTip": "COMP2139-ICE\\Controllers\\ProjectController.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-25T01:25:02.35Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\baalb\\Desktop\\Semester 4\\COMP2139 - Advanced Web Application\\COMP2139-ICE\\COMP2139-ICE\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "COMP2139-ICE\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\baalb\\Desktop\\Semester 4\\COMP2139 - Advanced Web Application\\COMP2139-ICE\\COMP2139-ICE\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "COMP2139-ICE\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-25T01:23:19.751Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Project.cs",
+              "DocumentMoniker": "C:\\Users\\baalb\\Desktop\\Semester 4\\COMP2139 - Advanced Web Application\\COMP2139-ICE\\COMP2139-ICE\\Models\\Project.cs",
+              "RelativeDocumentMoniker": "COMP2139-ICE\\Models\\Project.cs",
+              "ToolTip": "C:\\Users\\baalb\\Desktop\\Semester 4\\COMP2139 - Advanced Web Application\\COMP2139-ICE\\COMP2139-ICE\\Models\\Project.cs",
+              "RelativeToolTip": "COMP2139-ICE\\Models\\Project.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-25T01:19:11.792Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "COMP2139-ICE.csproj",
+              "DocumentMoniker": "C:\\Users\\baalb\\Desktop\\Semester 4\\COMP2139 - Advanced Web Application\\COMP2139-ICE\\COMP2139-ICE\\COMP2139-ICE.csproj",
+              "RelativeDocumentMoniker": "COMP2139-ICE\\COMP2139-ICE.csproj",
+              "ToolTip": "C:\\Users\\baalb\\Desktop\\Semester 4\\COMP2139 - Advanced Web Application\\COMP2139-ICE\\COMP2139-ICE\\COMP2139-ICE.csproj",
+              "RelativeToolTip": "COMP2139-ICE\\COMP2139-ICE.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-13T14:10:33.394Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

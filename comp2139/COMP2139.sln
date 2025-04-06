@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "COMP2139", "COMP2139\COMP2139.csproj", "{80A21C14-0C07-40E8-954A-498800FDCAFF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{80A21C14-0C07-40E8-954A-498800FDCAFF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{80A21C14-0C07-40E8-954A-498800FDCAFF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{80A21C14-0C07-40E8-954A-498800FDCAFF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{80A21C14-0C07-40E8-954A-498800FDCAFF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
